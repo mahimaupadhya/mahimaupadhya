@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" align="right">
 
 ## 💫 About Me
-Frontend developer who turns coffee into code and bugs into features! When I'm not crafting beautiful UI components, you might find me exploring new tech or debugging with my trusty rubber duck 🦆
+Heyyy~ I'm a code fairy who sprinkles magic dust on web apps! When I'm not making pretty websites, I'm probably with my laptop, sipping boba tea, or hunting for cute stickers for my dev setup! ✨👩‍💻✨
 
 ## 🌈 Tech Stack 
 
@@ -21,9 +21,6 @@ Frontend developer who turns coffee into code and bugs into features! When I'm n
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahimaupadhya115@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahimaupadhya)
 
-## ✨ GitHub Sparkles
-
-<img src="https://github-readme-stats.vercel.app/api?username=mahimaupadhya&show_icons=true&theme=radical" width="48%" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahimaupadhya&layout=compact&theme=radical" width="48%" >
 
 ## 🌟 Superpowers
 
